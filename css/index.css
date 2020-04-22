@@ -1,0 +1,38 @@
+html,body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+    height: 100%;
+
+}
+.container-fluid {
+    margin: 0px;
+    padding: 0px;
+    background-color: #f9f9fa;
+}
+.imglogo {
+    width: 200px;
+    height: auto;
+    align-items: center;
+}
+.carousel-inner > .carousel-item > img {
+    
+    height: 480px;
+    object-fit: cover;
+    
+  }
+  .row-margin {
+    margin: 10px;
+    padding: 10px;
+  }
+  .card-header {
+      background-color: #e3f2fd;
+  }
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    background-color: #9fcdff;
+
+}
